@@ -5,6 +5,7 @@ public class calculadora {
 	public int sumar(int i, int j) {
 		// TODO Auto-generated method stub
 		int a = 1 ;
+		Double dob = 0.0;
 		return i +j;
 	}
 		//Sobrecarga - overloading
